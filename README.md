@@ -1,2 +1,2 @@
 # ReachIN-V2
-Kitchen Inventory App Cl;ient &amp; Server with persistent data storage
+Kitchen Inventory App Client &amp; Server with persistent data storage
